@@ -15,7 +15,7 @@ public class RegistrationTest {
 
     private final static String FIRST_NAME = "Mary";
     private static String LAST_NAME = "Poppins";
-    private static String EMAIL = "xzlk8@vmani.com";
+    private static String EMAIL = "xzlk8@vmani.com"; //you need tochenge your email
     private static String TELEPHONE = "2515643465";
     private static String PASSWORD = "password123";
 
